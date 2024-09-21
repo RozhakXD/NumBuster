@@ -1,5 +1,5 @@
 # NumBuster
-**NumBuster** adalah alat Python yang memanfaatkan API CallerProtect untuk mengambil informasi publik tentang nomor telepon. Dengan alat ini, Anda dapat dengan cepat mendapatkan detail seperti penyedia layanan, wilayah, dan profil terkait nomor telepon.
+**NumBuster** adalah alat Python yang menggunakan API CallerProtect untuk mendapatkan informasi publik terkait nomor telepon, seperti penyedia layanan, wilayah, dan profil pengguna.
 
 ![NumBuster](https://github.com/user-attachments/assets/6f162b7a-6808-4011-84c1-77df1c82fed8)
 
@@ -67,7 +67,7 @@ Jika Anda merasa proyek ini bermanfaat dan ingin mendukung pengembangan lebih la
 - Program ini mengandalkan data yang tersedia secara publik dan tidak menjamin kelengkapan atau keakuratan informasi.
 
 ## Kontribusi
-Kami menerima kontribusi dari komunitas! Jika Anda ingin menambahkan fitur baru atau memperbaiki bug, silakan fork repositori ini dan kirimkan pull request.
+**Kami menerima kontribusi!** Jika Anda ingin menambahkan fitur atau memperbaiki bug, silakan fork repositori ini dan kirim pull request.
 
 ## Lisensi
 Proyek ini dilisensikan di bawah [MIT License](https://github.com/RozhakXD/NumBuster?tab=MIT-1-ov-file).
